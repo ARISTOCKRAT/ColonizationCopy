@@ -1,0 +1,158 @@
+{
+  "plain":
+  {"type": 1, "name": "Plain", "move": [2, 1], "deff": [0.5, 0.0],"produce": {
+      "food": [3, 4],
+      "sug": [0, 0],
+      "tob": [1, 1],
+      "cot": [1, 2],
+      "fur": [3, 0],
+      "lmb": [6, 0],
+      "ore": [0, 0],
+      "sil": [0, 0],
+      "fsh": [0, 0]}
+  },
+  "grassland":
+  {"type": 2, "name": "Grassland", "move": [2, 1], "deff": [0.5, 0.0],"produce": {
+      "food": [3, 4],
+      "sug": [0, 1],
+      "tob": [1, 3],
+      "cot": [1, 2],
+      "fur": [2, 0],
+      "lmb": [6, 0],
+      "ore": [0, 0],
+      "sil": [0, 0],
+      "fsh": [0, 0]}
+  },
+  "prairie":
+  {"type": 3, "name": "Prairie", "move": [2, 1], "deff": [0.5, 0.0],"produce": {
+      "food": [3, 4],
+      "sug": [0, 0],
+      "tob": [1, 2],
+      "cot": [1, 3],
+      "fur": [2, 0],
+      "lmb": [4, 0],
+      "ore": [0, 0],
+      "sil": [0, 0],
+      "fsh": [0, 0]}
+  },
+  "savannah":
+  {"type": 4, "name": "Savannah", "move": [2, 1], "deff": [0.5, 0.0],"produce": {
+      "food": [3, 4],
+      "sug": [1, 3],
+      "tob": [1, 2],
+      "cot": [1, 3],
+      "fur": [2, 0],
+      "lmb": [4, 0],
+      "ore": [0, 0],
+      "sil": [0, 0],
+      "fsh": [0, 0]}
+  },
+  "marsh":
+  {"type": 5, "name": "Marsh", "move": [3, 2], "deff": [0.5, 0.25],"produce": {
+      "food": [2, 3],
+      "sug": [1, 1],
+      "tob": [2, 3],
+      "cot": [0, 0],
+      "fur": [2, 0],
+      "lmb": [4, 0],
+      "ore": [2, 3],
+      "sil": [0, 0],
+      "fsh": [0, 0]}
+  },
+  "swamp":
+  {"type": 6, "name": "Swamp", "move": [3, 2], "deff": [0.75, 0.25],"produce": {
+      "food": [2, 3],
+      "sug": [2, 3],
+      "tob": [0, 1],
+      "cot": [0, 0],
+      "fur": [0, 0],
+      "lmb": [4, 0],
+      "ore": [0, 0],
+      "sil": [0, 0],
+      "fsh": [0, 0]}
+  },
+  "dessert":
+  {"type": 7, "name": "Dessert", "move": [1, 1], "deff": [0.5, 0.0],"produce": {
+      "food": [2, 2],
+      "sug": [0, 0],
+      "tob": [0, 1],
+      "cot": [1, 1],
+      "fur": [2, 0],
+      "lmb": [2, 0],
+      "ore": [1, 2],
+      "sil": [0, 0],
+      "fsh": [0, 0]}
+  },
+  "tundra":
+  {"type": 8, "name": "Tundra", "move": [2, 1], "deff": [0.5, 0.0],"produce": {
+      "food": [2, 3],
+      "sug": [0, 0],
+      "tob": [0, 0],
+      "cot": [0, 0],
+      "fur": [3, 0],
+      "lmb": [4, 0],
+      "ore": [1, 2],
+      "sil": [0, 0],
+      "fsh": [0, 0]}
+  },
+  "arctic":
+  {"type": 9, "name": "Arctic", "move": [2, 2], "deff": [0.0, 0.0],"produce": {
+      "food": [0, 0],
+      "sug": [0, 0],
+      "tob": [0, 0],
+      "cot": [0, 0],
+      "fur": [0, 0],
+      "lmb": [0, 0],
+      "ore": [0, 0],
+      "sil": [0, 0],
+      "fsh": [0, 0]}
+  },
+  "hill":
+  {"type": 10, "name": "Hill", "move": [2, 2], "deff": [1.0, 1.0],"produce": {
+      "food": [2, 2],
+      "sug": [0, 0],
+      "tob": [0, 0],
+      "cot": [0, 0],
+      "fur": [0, 0],
+      "lmb": [0, 0],
+      "ore": [4, 4],
+      "sil": [0, 0],
+      "fsh": [0, 0]}
+  },
+  "mountain":
+  {"type": 11, "name": "Mountain", "move": [3, 3], "deff": [1.5, 1.5],"produce": {
+      "food": [0, 0],
+      "sug": [0, 0],
+      "tob": [0, 0],
+      "cot": [0, 0],
+      "fur": [0, 0],
+      "lmb": [0, 0],
+      "ore": [3, 3],
+      "sil": [1, 1],
+      "fsh": [0, 0]}
+  },
+  "sea":
+  {"type": 12, "name": "Sea Lane", "move": [1, 1], "deff": [0, 0],"produce": {
+      "food": [0, 0],
+      "sug": [0, 0],
+      "tob": [0, 0],
+      "cot": [0, 0],
+      "fur": [0, 0],
+      "lmb": [0, 0],
+      "ore": [3, 3],
+      "sil": [1, 1],
+      "fsh": [3, 3]}
+  },
+  "ocean":
+  {"type": 13, "name": "Ocean", "move": [1, 1], "deff": [0, 0],"produce": {
+      "food": [0, 0],
+      "sug": [0, 0],
+      "tob": [0, 0],
+      "cot": [0, 0],
+      "fur": [0, 0],
+      "lmb": [0, 0],
+      "ore": [3, 3],
+      "sil": [1, 1],
+      "fsh": [3, 3]}
+  }
+}
